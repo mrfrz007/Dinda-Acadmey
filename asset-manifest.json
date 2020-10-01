@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dinda-Academy/static/css/main.5d4ddcce.chunk.css",
+    "main.js": "/Dinda-Academy/static/js/main.4c16b084.chunk.js",
+    "main.js.map": "/Dinda-Academy/static/js/main.4c16b084.chunk.js.map",
+    "runtime-main.js": "/Dinda-Academy/static/js/runtime-main.74803c90.js",
+    "runtime-main.js.map": "/Dinda-Academy/static/js/runtime-main.74803c90.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Dinda-Academy/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6f9412be.chunk.js": "/Dinda-Academy/static/js/2.6f9412be.chunk.js",
+    "static/js/2.6f9412be.chunk.js.map": "/Dinda-Academy/static/js/2.6f9412be.chunk.js.map",
+    "index.html": "/Dinda-Academy/index.html",
+    "precache-manifest.c992b05ed76b5a4e63ca02711b47a493.js": "/Dinda-Academy/precache-manifest.c992b05ed76b5a4e63ca02711b47a493.js",
+    "service-worker.js": "/Dinda-Academy/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Dinda-Academy/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5d4ddcce.chunk.css.map": "/Dinda-Academy/static/css/main.5d4ddcce.chunk.css.map",
+    "static/js/2.6f9412be.chunk.js.LICENSE.txt": "/Dinda-Academy/static/js/2.6f9412be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74803c90.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.6f9412be.chunk.js",
+    "static/css/main.5d4ddcce.chunk.css",
+    "static/js/main.4c16b084.chunk.js"
+  ]
+}
